@@ -3,6 +3,7 @@
 A collection of my home lab network projects and IT simulations using Cisco Packet Tracer and VirtualBox.  
 Each project is documented with configuration details, screenshots, and lessons learned to showcase technical growth in networking, system administration, and cybersecurity.
 
+_Last Updated: October 20, 2025_
 ---
 
 ## Projects
@@ -14,10 +15,12 @@ Each project is documented with configuration details, screenshots, and lessons 
 ---
 
 ### Repository Layout
-```text
+```
 /HomeLab
 │
 ├── 01_Mangunet_HomeNetwork/
 │   ├── Mangunet_HomeNetwork.pkt
 │   ├── Mangunet_HomeNetwork.png
 │   └── README.md
+
+```
