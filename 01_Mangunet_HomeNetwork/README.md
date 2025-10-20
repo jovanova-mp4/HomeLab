@@ -1,6 +1,5 @@
 # Mangunet Home Network
 **Lab Type:** Cisco Packet Tracer Simulation
-
 **Objective:** Simulate a realistic home LAN and Wi-Fi network with both wired and wireless clients under the SSID "Mangunet".
 
 ## Topology Overview
