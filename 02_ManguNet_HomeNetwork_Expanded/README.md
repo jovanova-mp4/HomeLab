@@ -8,7 +8,7 @@
 
 ## Topology Overview
 
-![Expanded Topology](ManguNet_HomeNetwork_Expanded.Png)
+![Mangunet Home Network Extended](./ManguNet_SimpleNetwork_Extended.Png)
 
 ---
 
