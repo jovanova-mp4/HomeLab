@@ -1,12 +1,12 @@
-# Mangunet Home Network
+# ManguNet Home Network
 **Lab Type:** Cisco Packet Tracer Simulation
 
 **Objective:** Simulate a realistic home LAN and Wi-Fi network with both wired and wireless clients under the SSID "Mangunet".
 
 ## Topology Overview
-![Mangunet Home Network](./Mangunet_HomeNetwork.png)
+![Mangunet Home Network](./ManguNet_HomeNetwork.png)
 
-**SSID:** Mangunet  
+**SSID:** ManguNet  
 **Security:** WPA2-PSK (JovaHomeNet2025)  
 **Subnet:** 192.168.1.0/24  
 **Gateway:** 192.168.1.1  
@@ -30,7 +30,7 @@
 
 ## Verification
 - All nodes successfully ping each other and the gateway.  
-- Wireless client connects to SSID “Mangunet” with WPA2-PSK.  
+- Wireless client connects to SSID “ManguNet” with WPA2-PSK.  
 - Printer reachable at `192.168.1.13`.
 
 ---
