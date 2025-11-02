@@ -4,7 +4,7 @@
 **Objective:** Simulate a realistic home LAN and Wi-Fi network with both wired and wireless clients under the SSID "Mangunet".
 
 ## Topology Overview
-![Mangunet Home Network](./ManguNet_HomeNetwork.png)
+![ManguNet Home Network](./ManguNet_HomeNetwork.png)
 
 **SSID:** ManguNet  
 **Security:** WPA2-PSK (JovaHomeNet2025)  
