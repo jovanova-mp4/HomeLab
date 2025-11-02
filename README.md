@@ -11,6 +11,7 @@ _Last Updated: October 20, 2025_
 | # | Project | Description |
 |---|----------|-------------|
 | 1 | [Mangunet Home Network](./01_Mangunet_HomeNetwork/README.md) | A small home LAN and Wi-Fi topology built in Cisco Packet Tracer. |
+| 2 | [ManguNet Home Network Expanded](02_ManguNet_HomeNetwork_Expanded) | Dual-LAN /25 subnet network with Cisco router, port security, and AP mode conversion. |
 
 ---
 
@@ -22,5 +23,10 @@ _Last Updated: October 20, 2025_
 │   ├── Mangunet_HomeNetwork.pkt
 │   ├── Mangunet_HomeNetwork.png
 │   └── README.md
+├── 02_ManguNet_HomeNetwork_Expanded/
+│   ├── ManguNet_HomeNetwork_Expanded.pkt
+│   ├── ManguNet_HomeNetwork_Expanded.png
+│   └── README.md
+└── README.md
 
 ```
