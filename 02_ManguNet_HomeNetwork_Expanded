@@ -1,4 +1,4 @@
-#ManguNet Home Network Expanded
+# ManguNet Home Network Expanded
 
 **Lab Type:** Cisco Packet Tracer Simulation  
 **Objective:** Expand the original ManguNet home network into a dual-LAN /25 subnet architecture with router-based segmentation, switch port-security, and a converted Access Point for wireless connectivity.
