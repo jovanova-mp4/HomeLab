@@ -19,9 +19,9 @@ _Last Updated: October 20, 2025_
 ```
 /HomeLab
 │
-├── 01_Mangunet_HomeNetwork/
-│   ├── Mangunet_HomeNetwork.pkt
-│   ├── Mangunet_HomeNetwork.png
+├── 01_ManguNet_HomeNetwork/
+│   ├── ManguNet_HomeNetwork.pkt
+│   ├── ManguNet_HomeNetwork.png
 │   └── README.md
 ├── 02_ManguNet_HomeNetwork_Expanded/
 │   ├── ManguNet_HomeNetwork_Expanded.pkt
